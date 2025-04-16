@@ -1,0 +1,5 @@
+services:
+  py_interpreter:
+    build:
+      context: .
+      dockerfile: Dockerfile
